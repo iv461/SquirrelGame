@@ -1,0 +1,9 @@
+#
+#Tue Jun 12 17:45:13 CEST 2018
+height=30
+goodBeastNum=20
+badPlantNum=10
+wallNum=150
+width=60
+badBeastNum=50
+goodPlantNum=50

@@ -1,0 +1,11 @@
+com.ivj.squirrelgame.board
+com.ivj.squirrelgame.botapi
+com.ivj.squirrelgame.commandParser
+com.ivj.squirrelgame.core
+com.ivj.squirrelgame.entity
+com.ivj.squirrelgame.logging
+com.ivj.squirrelgame.main
+com.ivj.squirrelgame.pathfinding
+com.ivj.squirrelgame.tests
+com.ivj.squirrelgame.ui
+de.hsa.games.fatsquirrel.botimpls.azardBot

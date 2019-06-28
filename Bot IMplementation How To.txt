@@ -1,0 +1,6 @@
+How to implement your Bot?
+
+You have to implement the BotControllerFactory with the correct name BotControllerFactoryImpl in the package de.hsa.games.fatsquirrel.botimpls.
+You also implement BotController in a class with arbitrary name, but it must be unique to prevent naming collisions. 
+In the nextStep method you call from the ControllerContext the move method to move.
+ControllerContext also provides some methods where you can watch the field.
